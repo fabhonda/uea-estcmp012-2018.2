@@ -1,0 +1,19 @@
+a) Listas crescentes
+
+lista1[]={1,2,3,4,5,6,7,8}
+lista2[]={10,20,30,40,50}
+lista3[]={1,3,5,7,11,13,17}
+
+
+b) Listas decrescentes
+
+lista4[]={10,9,8,7,6,5,4}
+lista5[]={500,400,300,200,100}
+lista6[]={50,45,40,35,30}
+
+
+c) Listas desordenadas aleatoriamente (e com 500 elementos)
+lista7[500];  
+lista8[500];
+lista9[500];
+//utilizei a função rand()%100 dentro de um for para números aleatórios
